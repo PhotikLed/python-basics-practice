@@ -1,0 +1,20 @@
+# Байт-код Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Окружение
+.venv/
+venv/
+ENV/
+env/
+
+# Тесты и кэш
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Редакторы и IDE
+.vscode/
+.idea/
+*.swp
